@@ -1,0 +1,12 @@
+C:\Users\Manju\source\repos\ClassWork\ClassWork\bin\Debug\ClassWork.exe.config
+C:\Users\Manju\source\repos\ClassWork\ClassWork\bin\Debug\ClassWork.exe
+C:\Users\Manju\source\repos\ClassWork\ClassWork\bin\Debug\ClassWork.pdb
+C:\Users\Manju\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.csprojAssemblyReference.cache
+C:\Users\Manju\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.Form1.resources
+C:\Users\Manju\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.Properties.Resources.resources
+C:\Users\Manju\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.csproj.GenerateResource.cache
+C:\Users\Manju\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Manju\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.exe
+C:\Users\Manju\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.pdb
+C:\Users\Manju\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.NumericUpDown.resources
+C:\Users\Manju\source\repos\ClassWork\ClassWork\obj\Debug\ClassWork.Form2.resources
